@@ -1,4 +1,4 @@
-[![MATLAB](https://github.com/saikrishnavamsimahadasa/ci-configuration-examples/actions/workflows/
+[![MATLAB](https://github.com/GITHUB_USERNAME/GITHUB_REPO_NAME/actions/workflows/
 ci.yml/badge.svg)](https://github.com/saikrishnavamsimahadasa/ci-configuration-examples/actions/
 workflows/ci.yml)
 
